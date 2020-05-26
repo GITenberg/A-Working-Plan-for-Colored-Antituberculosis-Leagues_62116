@@ -1,0 +1,26 @@
+_repo: A-Working-Plan-for-Colored-Antituberculosis-Leagues_62116
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wertenbaker, Charles Poindexter
+    alias: Wertenbaker, C. P.
+    birthdate: 1860
+    deathdate: 1916
+    gutenberg_agent_id: '51775'
+    url: http://www.gutenberg.org/2009/agents/51775
+description: ''
+gutenberg_issued: '2020-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62116'
+  lccn: 09035808
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RA'
+- !lcsh 'Tuberculosis -- Prevention'
+- GITenberg
+title: A Working Plan for Colored Antituberculosis Leagues
+url: http://www.gutenberg.org/ebooks/62116
